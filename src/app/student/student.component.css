@@ -1,0 +1,31 @@
+.hd {
+    position: relative;
+    height: 120vh;
+    /* background-color: yellowgreen; */
+    background-image: url('https://media.istockphoto.com/id/1313285963/vector/cyber-security-technology-concept-shield-with-keyhole-icon-personal-data.jpg?s=612x612&w=0&k=20&c=f5EIvVfgFJz5NR7SEp7v6npNQn9Dsx6MkYk7wcAF9Lo=');
+    background-size: cover; 
+    display: flex;
+    justify-content: center;
+    /* align-items: center;  */
+    
+}
+
+.card{
+    
+    background-color: inherit;
+    padding-top: 5px;
+    
+}
+
+.c2{
+    color: white;
+}
+
+.table1{
+    background-color: inherit;
+    color: white;
+}
+
+.c3{
+    padding-top: 40px;
+}
